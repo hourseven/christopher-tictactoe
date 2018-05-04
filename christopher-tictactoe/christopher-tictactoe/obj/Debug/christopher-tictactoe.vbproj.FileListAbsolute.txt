@@ -1,0 +1,11 @@
+C:\Users\burel566\AppData\Local\Temporary Projects\christopher-tictactoe\bin\Debug\christopher-tictactoe.exe.config
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\bin\Debug\christopher-tictactoe.exe.config
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\obj\Debug\christopher_tictactoe.Form1.resources
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\obj\Debug\christopher_tictactoe.Resources.resources
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\obj\Debug\christopher-tictactoe.vbproj.GenerateResource.Cache
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\bin\Debug\christopher-tictactoe.exe
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\bin\Debug\christopher-tictactoe.pdb
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\bin\Debug\christopher-tictactoe.xml
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\obj\Debug\christopher-tictactoe.exe
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\obj\Debug\christopher-tictactoe.xml
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-tictactoe\christopher-tictactoe\obj\Debug\christopher-tictactoe.pdb
